@@ -89,11 +89,11 @@ export default function HeroSection({ onOpenConsultation }: HeroSectionProps) {
             </div>
 
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-[3.25rem] font-bold text-white tracking-tight leading-[1.15] mb-6 text-balance">
-              Find the Right Property in North Goa. <span className="text-[#C5A880]">Make the Right Move.</span>
+              Real Estate in Panaji & Properties in North Goa. <span className="text-[#C5A880]">Make the Right Move.</span>
             </h1>
 
             <p className="text-base sm:text-lg text-slate-300 leading-relaxed max-w-2xl mb-8">
-              Strategic real estate solutions for residential, commercial and investment opportunities exclusively across North Goa. Backed by local market intelligence, strong local property networks, and dedicated client-first advisory.
+              Trusted real estate consultant in Panaji offering strategic solutions for residential properties in North Goa, flats for sale in Panaji, and commercial properties in Panaji. Backed by expert property advisory in North Goa and commercial real estate in Goa.
             </p>
 
             {/* CTAs */}

@@ -38,10 +38,10 @@ export default function ServicesSection({ onSelectService }: ServicesSectionProp
               <span>End-to-End Real Estate Solutions</span>
             </div>
             <h2 className="text-3xl sm:text-4xl font-bold text-[#0B192C] tracking-tight text-balance leading-tight">
-              Specialized Real Estate Services Across North Goa
+              Specialized Real Estate Services & Commercial Properties in North Goa
             </h2>
             <p className="mt-4 text-base text-slate-600 leading-relaxed">
-              From prime coastal enclaves to Patto Plaza commercial spaces, our advisory spectrum is structured to execute transactions exclusively across North Goa with diligence, discretion, and market accuracy.
+              From office space for rent in Panaji to flats for rent in Panaji and commercial real estate in Goa, our advisory spectrum is structured to execute transactions exclusively across North Goa with diligence, discretion, and market accuracy.
             </p>
           </div>
           <div className="text-xs text-slate-500 font-medium">
