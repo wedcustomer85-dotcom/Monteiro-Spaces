@@ -145,7 +145,7 @@ export default function HeroSection({ onOpenConsultation }: HeroSectionProps) {
             <div className="relative rounded-xl overflow-hidden shadow-2xl border border-white/15 bg-slate-900 group">
               <div className="aspect-[4/3] sm:aspect-[16/10] lg:aspect-[4/3] overflow-hidden">
                 <img
-                  src="/src/assets/images/hero_goa_luxury_property_1794321356517.jpg"
+                  src="/assets/aistudio/1795688248430_eaf1e699.png"
                   alt="Luxury coastal villa and residential property in North Goa curated by Monteiro Spaces Real Estate"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
