@@ -12,7 +12,7 @@ export const SERVICES_DATA: ServiceItem[] = [
   {
     id: 'buy-property',
     number: '01',
-    title: 'Buy Property',
+    title: 'Residential Property Buying in Panaji',
     iconName: 'Home',
     shortDesc: 'Curated acquisition advisory for prime residential villas, apartments, plots, and commercial assets across North Goa.',
     scope: [
@@ -25,7 +25,7 @@ export const SERVICES_DATA: ServiceItem[] = [
   {
     id: 'sell-property',
     number: '02',
-    title: 'Sell Property',
+    title: 'Residential Property Selling in North Goa',
     iconName: 'Building2',
     shortDesc: 'Discreet and targeted disposition services connecting property owners with qualified, vetted buyers in North Goa.',
     scope: [
@@ -38,7 +38,7 @@ export const SERVICES_DATA: ServiceItem[] = [
   {
     id: 'residential-leasing',
     number: '03',
-    title: 'Residential Leasing',
+    title: 'Flats and Apartments for Rent',
     iconName: 'KeyRound',
     shortDesc: 'Premium rental advisory for luxury villas, penthouses, and executive residences in North Goa’s premier enclaves.',
     scope: [
@@ -51,7 +51,7 @@ export const SERVICES_DATA: ServiceItem[] = [
   {
     id: 'commercial-leasing',
     number: '04',
-    title: 'Commercial Leasing',
+    title: 'Commercial Property Leasing',
     iconName: 'Briefcase',
     shortDesc: 'Strategic workspace and retail solutions across Patto Plaza, Panaji, and key North Goa commercial high streets.',
     scope: [
@@ -64,7 +64,7 @@ export const SERVICES_DATA: ServiceItem[] = [
   {
     id: 'investment-consultancy',
     number: '05',
-    title: 'Investment Consultancy',
+    title: 'Office Spaces in Panaji',
     iconName: 'TrendingUp',
     shortDesc: 'Institutional-grade real estate advisory analyzing capital appreciation, rental yield potential, and micro-market growth across North Goa.',
     scope: [
@@ -77,7 +77,7 @@ export const SERVICES_DATA: ServiceItem[] = [
   {
     id: 'property-valuation',
     number: '06',
-    title: 'Property Valuation',
+    title: 'Real Estate Investment Consultancy',
     iconName: 'Calculator',
     shortDesc: 'Objective, benchmarked valuation assessments reflecting genuine transaction realities and market conditions in North Goa.',
     scope: [
@@ -90,9 +90,9 @@ export const SERVICES_DATA: ServiceItem[] = [
   {
     id: 'documentation-support',
     number: '07',
-    title: 'Documentation & Transaction Support',
+    title: 'Property Valuation and Advisory',
     iconName: 'FileCheck2',
-    shortDesc: 'We do not provide this service directly. We provide the contact of experienced property lawyers and advocates, and we help in coordination if needed.',
+    shortDesc: 'We do not provide legal services directly. We provide the contact of experienced property lawyers and advocates, and we help in coordination if needed.',
     scope: [
       'Contacts of trusted property advocates & legal counsels in Goa',
       'Document collation and transaction coordination if needed',

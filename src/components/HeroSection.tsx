@@ -93,7 +93,7 @@ export default function HeroSection({ onOpenConsultation }: HeroSectionProps) {
             </h1>
 
             <p className="text-base sm:text-lg text-slate-300 leading-relaxed max-w-2xl mb-8">
-              Trusted real estate consultant in Panaji offering strategic solutions for residential properties in North Goa, flats for sale in Panaji, and commercial properties in Panaji. Backed by expert property advisory in North Goa and commercial real estate in Goa.
+              Looking for properties in Panaji or North Goa? Monteiro Spaces provides residential and commercial real estate advisory, including flats for sale and rent in Panaji, commercial office spaces, and property solutions across North Goa.
             </p>
 
             {/* CTAs */}
@@ -146,7 +146,7 @@ export default function HeroSection({ onOpenConsultation }: HeroSectionProps) {
               <div className="aspect-[4/3] sm:aspect-[16/10] lg:aspect-[4/3] overflow-hidden">
                 <img
                   src="/src/assets/images/hero_goa_luxury_property_1794321356517.jpg"
-                  alt="Luxury coastal villa in North Goa curated by Monteiro Spaces"
+                  alt="Luxury coastal villa and residential property in North Goa curated by Monteiro Spaces Real Estate"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 />
@@ -177,7 +177,7 @@ export default function HeroSection({ onOpenConsultation }: HeroSectionProps) {
                 <span>Quick Property Enquiry</span>
               </div>
               <h2 className="text-xl sm:text-2xl font-bold text-[#0B192C] tracking-tight">
-                Share Your North Goa Property Requirements
+                Find Residential & Commercial Properties in Panaji and North Goa
               </h2>
             </div>
             <p className="text-xs text-slate-500 max-w-sm">
